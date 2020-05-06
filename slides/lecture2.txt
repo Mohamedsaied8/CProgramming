@@ -1,0 +1,16 @@
+starting by the tools and compilation process
+
+finish the example of calculator
+
+types of operators
+unary -binary - ternary
+operators
+arithmetic - assignment operators - relational operators -logical operators - bitwise operators
+
+
+labs
+odd or even
+complete the calculator
+
+assignments
+

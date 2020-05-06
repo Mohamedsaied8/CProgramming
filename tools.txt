@@ -1,0 +1,12 @@
+
+
+eclipse
+https://www.eclipse.org/downloads/
+
+configure eclipse using mingw
+download and install mingw so it will be the toolchain for eclipse ide
+
+https://osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe/
+
+download git 
+https://git-scm.com/downloads

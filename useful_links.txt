@@ -1,0 +1,14 @@
+
+Apress Cprogramming Book
+http://www.mediafire.com/file/16b5htt442gtqj7/2_Apress.Beginning.C.From.Novice.to.Professional.4th.Edition.Oct.2006.pdf/file
+
+Lecture notes of MIT OCW : Practical C programming Course
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/lecture-notes/
+
+test your skills 
+https://www.indiabix.com/c-programming/questions-and-answers/
+
+72 examples of C programming
+https://www.programiz.com/c-programming/examples
+
+
